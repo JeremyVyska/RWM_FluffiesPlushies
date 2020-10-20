@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
   <version>1.0.0</version>
-  <manifestUri>https://raw.githubusercontent.com/rihlsul/RWM_FluffiesPlushies/master/About/Manifest.xml</manifestUri>
+  <manifestUri>https://raw.githubusercontent.com/rihlsul/RWM_FluffiesPlushies/main/About/Manifest.xml</manifestUri>
   <downloadUri>https://github.com/rihlsul/RWM_FluffiesPlushies/releases/tag/v1.0.0</downloadUri>
 </Manifest>
