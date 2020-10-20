@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef Class="FluffiesPlushies.ThingDef_FluffiesPlushie" ParentName="Plushies.ThingDef_Plushie" Name="FluffyPlushieBase">
+    <defName>FluffyPlushie</defName>
+    <label>fluffy plushie</label>
+    <description>A cute little fluffy plushie!</description>
+    <graphicData>
+      <graphicClass>Graphic_Random</graphicClass>
+      <texPath>Things/plushies</texPath>
+    </graphicData>
+  </ThingDef>
+</Defs>
