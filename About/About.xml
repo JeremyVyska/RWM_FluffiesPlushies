@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>FluffiesPlushies</name>
+  <name>FluffiesPlushies (retired: now part of Big Fluffies)</name>
   <author>Rihlsul</author>
   <url>https://github.com/rihlsul/RWM_FluffiesPlushies</url>
-  <description>There are rumors of a strange fluffy creature roaming this world.  This is a cuddly (less sentient) homemade version.</description>
+  <description>This mod has retired. Its plushies now live inside the main mods, with better art, names, descriptions and cuddles:
+
+- Big Fluffies: pink fluffy plushies
+- Albino Fluffies: white fluffy plushies
+
+If Plushies (by Twokay) is also active, colonists cuddle fluffy plushies and sleep better next to them, just like regular plushies.
+
+This mod no longer adds anything. You can safely unsubscribe from it; loading it does nothing.</description>
   <packageId>Rihlsul.FluffiesPlushies</packageId>
   <supportedVersions>
     <li>1.2</li>
+    <li>1.3</li>
+    <li>1.4</li>
+    <li>1.5</li>
+    <li>1.6</li>
+    <li>1.7</li>
   </supportedVersions>
-  <modDependencies>
-		<li>
-			<packageId>Twokay.Plushies.Specific</packageId>
-			<displayName>Plushies</displayName>
-			<steamWorkshopUrl>steam://url/CommunityFilePage/2259582816</steamWorkshopUrl>
-			<downloadUrl>https://github.com/Two-Kay/plushiesMod/releases/</downloadUrl>
-		</li>
-	</modDependencies>
-  <loadAfter>
-    <li>Ludeon.RimWorld</li>
-    <li>Ludeon.RimWorld.Royalty</li>
-    <li>Twokay.Plushies.Specific</li>
-  </loadAfter>
 </ModMetaData>
